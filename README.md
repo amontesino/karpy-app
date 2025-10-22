@@ -5,11 +5,13 @@ Karpy is a daily tasklist that "gamifies" productivity while using site/app bloc
 ## To-do list
 
 - [ ] Basic functionality
-<!-- _- [ ] Add task
+_- [ ] Add task
 _- [ ] Delete task
 _- [ ] Edit task
-_- [ ] Preset tasks -->
+_- [ ] Preset tasks
 - [ ] Streaks
+_- [ ] Open App streak
+_- [ ] Complete all tasks streak
 - [ ] Repeating tasks
 - [ ] 
 
