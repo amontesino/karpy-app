@@ -1,3 +1,18 @@
+# Karpy
+
+Karpy is a daily tasklist that "gamifies" productivity while using site/app blockers that are as lean or as strict as the user allows. Friends can also keep eachother accountable.
+
+## To-do list
+
+- [ ] Basic functionality
+<!-- _- [ ] Add task
+_- [ ] Delete task
+_- [ ] Edit task
+_- [ ] Preset tasks -->
+- [ ] Streaks
+- [ ] Repeating tasks
+- [ ] 
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
