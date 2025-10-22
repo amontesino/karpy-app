@@ -13,6 +13,7 @@ Karpy is a daily tasklist that "gamifies" productivity while using site/app bloc
    - [ ] Open App streak
    - [ ] Complete all tasks streak
 - [ ] Repeating tasks
+- [ ] Settings menu
 - [ ] Design logo (convene w/ carina and jenna on this)
 
 # Welcome to your Expo app 👋
